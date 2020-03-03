@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="393d1f43-d1ad-44ef-a236-2019297ba108" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Misago/frontend/static/img/site-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misago/misago/conf/defaults.py" beforeDir="false" afterPath="$PROJECT_DIR$/Misago/misago/conf/defaults.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misago/misago/static/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/Misago/misago/static/favicon1.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misago/misago/static/misago/img/site-logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/Misago/misago/static/misago/img/site-logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misago/misago/templates/misago/auth.html" beforeDir="false" afterPath="$PROJECT_DIR$/Misago/misago/templates/misago/auth.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misago/misago/templates/misago/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/Misago/misago/templates/misago/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misago/misago/templates/misago/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Misago/misago/templates/misago/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/paperweekly_forum/testforum/testforum/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/paperweekly_forum/testforum/testforum/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/paperweekly_forum/testforum/testforum/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/paperweekly_forum/testforum/testforum/urls.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Misago" />
+  </component>
+  <component name="ProjectId" id="1YACp389qfyIdXfAryfLRA1bI7y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Misago/misago/static" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Misago/misago/static/misago/img" />
+      <recent name="$PROJECT_DIR$/Misago/misago/static/misago" />
+      <recent name="$PROJECT_DIR$/Misago/frontend/static/img" />
+      <recent name="$PROJECT_DIR$/paperweekly_forum/testforum/theme" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="pytest for admin.tests.test_admin_hierarchy.NodeTests.test_add_node" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="论坛" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Misago/misago" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;admin.tests.test_admin_hierarchy.NodeTests.test_add_node&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for admin.tests.test_admin_hierarchy.NodeTests.test_add_node" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="393d1f43-d1ad-44ef-a236-2019297ba108" name="Default Changelist" comment="" />
+      <created>1582376191827</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582376191827</updated>
+      <workItem from="1582376203264" duration="954000" />
+      <workItem from="1582379507768" duration="1927000" />
+      <workItem from="1582382067148" duration="1129000" />
+      <workItem from="1582383707695" duration="96000" />
+      <workItem from="1582409548394" duration="1828000" />
+      <workItem from="1582411447741" duration="1234000" />
+      <workItem from="1582412749544" duration="699000" />
+      <workItem from="1582414093799" duration="1805000" />
+      <workItem from="1582417141838" duration="595000" />
+      <workItem from="1582441039928" duration="2877000" />
+      <workItem from="1582444038412" duration="3341000" />
+      <workItem from="1582461910911" duration="1570000" />
+      <workItem from="1582464629187" duration="919000" />
+      <workItem from="1582470862485" duration="2007000" />
+      <workItem from="1582514051241" duration="1101000" />
+      <workItem from="1582516814432" duration="1533000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="986" y="276" key="FileChooserDialogImpl" timestamp="1582412832929">
+      <screen x="65" y="24" width="1615" height="1026" />
+    </state>
+    <state x="986" y="276" key="FileChooserDialogImpl/65.24.1615.1026@65.24.1615.1026" timestamp="1582412832929" />
+    <state width="1563" height="285" key="GridCell.Tab.0.bottom" timestamp="1582412684442">
+      <screen x="65" y="24" width="1615" height="1026" />
+    </state>
+    <state width="1563" height="285" key="GridCell.Tab.0.bottom/65.24.1615.1026@65.24.1615.1026" timestamp="1582412684442" />
+    <state width="1563" height="285" key="GridCell.Tab.0.center" timestamp="1582412684441">
+      <screen x="65" y="24" width="1615" height="1026" />
+    </state>
+    <state width="1563" height="285" key="GridCell.Tab.0.center/65.24.1615.1026@65.24.1615.1026" timestamp="1582412684441" />
+    <state width="1563" height="285" key="GridCell.Tab.0.left" timestamp="1582412684440">
+      <screen x="65" y="24" width="1615" height="1026" />
+    </state>
+    <state width="1563" height="285" key="GridCell.Tab.0.left/65.24.1615.1026@65.24.1615.1026" timestamp="1582412684440" />
+    <state width="1563" height="285" key="GridCell.Tab.0.right" timestamp="1582412684442">
+      <screen x="65" y="24" width="1615" height="1026" />
+    </state>
+    <state width="1563" height="285" key="GridCell.Tab.0.right/65.24.1615.1026@65.24.1615.1026" timestamp="1582412684442" />
+    <state x="65" y="24" key="SettingsEditor" timestamp="1582514109842">
+      <screen x="65" y="24" width="1615" height="1026" />
+    </state>
+    <state x="65" y="24" key="SettingsEditor/65.24.1615.1026@65.24.1615.1026" timestamp="1582514109842" />
+    <state x="186" y="24" key="SettingsEditor/65.24.1638.835@65.24.1638.835" timestamp="1582444084780" />
+    <state x="65" y="24" key="SettingsEditor/65.24.850.576@65.24.850.576" timestamp="1582410473879" />
+    <state x="482" y="366" key="com.intellij.ide.util.TipDialog" timestamp="1582412755203">
+      <screen x="65" y="24" width="1615" height="1026" />
+    </state>
+    <state x="482" y="366" key="com.intellij.ide.util.TipDialog/65.24.1615.1026@65.24.1615.1026" timestamp="1582412755203" />
+    <state x="512" y="228" width="719" height="678" key="search.everywhere.popup" timestamp="1582517529613">
+      <screen x="65" y="24" width="1615" height="1026" />
+    </state>
+    <state x="412" y="191" width="717" height="556" key="search.everywhere.popup/65.24.1253.841@65.24.1253.841" timestamp="1582514992388" />
+    <state x="512" y="228" width="719" height="678" key="search.everywhere.popup/65.24.1615.1026@65.24.1615.1026" timestamp="1582517529613" />
+    <state x="525" y="418" width="730" height="552" key="search.everywhere.popup/65.24.1638.835@65.24.1638.835" timestamp="1582461705444" />
+    <state x="573" y="422" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1582414318447">
+      <screen x="65" y="24" width="1615" height="1026" />
+    </state>
+    <state x="573" y="422" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/65.24.1615.1026@65.24.1615.1026" timestamp="1582414318447" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/$pytest_for_admin_tests_test_admin_hierarchy_NodeTests_test_add_node.coverage" NAME="pytest for admin.tests.test_admin_hierarchy.NodeTests.test_add_node Coverage Results" MODIFIED="1582412518455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Misago/misago" />
+  </component>
+</project>
